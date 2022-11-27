@@ -16,9 +16,9 @@ Pesquisa de satisfação
    Sim, não ou talvez (radio)
 
 6) Checkbox
-	a) Tenho interesse em conhecer os termos sobre a garantia extendida
-	b) Desejo receber ofertas de produtos semelhantes
-	c) Desejo ser notificado em caso de novas informações sobre o bem obtido
+a) Tenho interesse em conhecer os termos sobre a garantia extendida
+b) Desejo receber ofertas de produtos semelhantes
+c) Desejo ser notificado em caso de novas informações sobre o bem obtido
 
 7) Enviar
 
