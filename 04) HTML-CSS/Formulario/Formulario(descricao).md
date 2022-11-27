@@ -1,18 +1,18 @@
 Pesquisa de satisfação
 
-1) Digite o seu nome:
+1) Digite o seu nome:<br>
    Type: caracter   
 
-2) Digite o seu email: 
+2) Digite o seu email:<br> 
    Type: email 
 
-3) Data da compra: (dd/mm/aaaa)
+3) Data da compra (dd/mm/aaaa):<br>
    Type: date
 
-4) O produto chegou em boas condições?
+4) O produto chegou em boas condições?<br>
    Sim ou Não (radio)
 
-5) Voltaria a comprar conosco? 
+5) Voltaria a comprar conosco?<br>
    Sim, não ou talvez (radio)
 
 6) Checkbox<br>
