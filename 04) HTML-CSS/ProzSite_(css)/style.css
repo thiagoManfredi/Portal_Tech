@@ -1,0 +1,14 @@
+* {
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.home_header {
+  background-color: orange;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.home_header_navbar {
+  display: flex;
+}
