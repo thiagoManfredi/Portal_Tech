@@ -1,0 +1,74 @@
+.proz_body {
+  background-color: #5a3f8f;
+  color: white;
+}
+
+.home_header {
+  background-color: #d5d2d4;
+  
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;  
+  flex-direction: row;
+}
+
+.home_header_navbar {
+  display: flex;
+  gap: 30px;
+  color: red;
+}
+
+a:hover {
+  color: #fd5800;
+  transition: all 0.4s ease-in-out;
+}
+
+ul {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+#proz_main {
+  height: 100%;
+  display: flex;
+  /* justify-content: space-evenly; */
+  flex-direction: column;
+  align-items: center;
+  padding: 0 25%;
+}
+
+#proz_main_titles {
+  align-self: center;
+  padding-left: 12px;
+  margin-top: 20px;
+  width: 700px;    
+}
+
+#proz_main_title {
+  font-size: 48px;
+}
+
+#proz_main_subtitle {
+  font-size: 20px;
+}
+
+#proz_description {
+  display: flex;
+  gap: 30px;
+  margin-top: 25px;
+}
+
+.proz_description_title {
+  font-size: 20px;
+  width: 300px;
+}
+
+#proz_description_one, #proz_description_two {
+  background: url(img/bg_laranja.jpg);
+  border-radius: 12px;
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
