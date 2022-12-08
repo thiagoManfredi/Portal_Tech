@@ -10,5 +10,5 @@ https://thiagomanfredi.github.io/Portal_Tech/04)%20HTML-CSS/ProzSite_(css-main)/
 <h3>Preview:</h3>
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/thiagoManfredi/Portal_Tech/main/04)%20HTML-CSS/ProzSite_(css-main)/img/Preview.png" width="800px"/>
+<img src="https://raw.githubusercontent.com/thiagoManfredi/Portal_Tech/main/04)%20HTML-CSS/ProzSite_(css-main)/img/Preview.png" width="900px"/>
 </div>
