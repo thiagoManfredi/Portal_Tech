@@ -7,5 +7,5 @@
 <h3>Preview</h3>
 
 <div align="center">
-<img src="https://github.com/thiagoManfredi/Portal_Tech/tree/main/04)%20HTML-CSS/ProzSite_(css-main)/img/Preview.png" width="700px" />
+<img src="https://raw.githubusercontent.com/thiagoManfredi/Portal_Tech/main/04)%20HTML-CSS/ProzSite_(css-main)/img/Preview.png" width="700px"/>
 </div>
