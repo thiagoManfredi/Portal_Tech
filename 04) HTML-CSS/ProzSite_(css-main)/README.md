@@ -9,4 +9,4 @@ https://thiagomanfredi.github.io/Portal_Tech/04)%20HTML-CSS/ProzSite_(css-main)/
 
 <h3>Preview:</h3>
 
-![Preview](https://user-images.githubusercontent.com/118065155/206561800-59942629-c949-499d-b12c-742f2a44372a.png)
+
