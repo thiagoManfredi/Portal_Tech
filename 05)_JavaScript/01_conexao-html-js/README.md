@@ -5,7 +5,7 @@
 - Introduçãodo conceito de Objects;
 
 <h3>GitHub Pages:</h3>
-https://thiagomanfredi.github.io/Portal_Tech/04)%20HTML-CSS/ProzSite_(css-main)/
+https://thiagomanfredi.github.io/Portal_Tech/05)_JavaScript/01_conexao-html-js/index.html
 
 <h3>Preview:</h3>
 
