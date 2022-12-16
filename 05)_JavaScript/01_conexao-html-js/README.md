@@ -2,7 +2,7 @@
 
 - Introdução ao DOM;
 - Manipulação do DOM;
-- Introdução do conceito de Objects;
+- Introdução ao conceito de Objects;
 
 <h3>GitHub Pages:</h3>
 https://thiagomanfredi.github.io/Portal_Tech/05)_JavaScript/01_conexao-html-js/index.html
