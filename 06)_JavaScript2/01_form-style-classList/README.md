@@ -5,7 +5,7 @@
 - Chamada de uma função através do evento Onclick em um botão.
 
 <h3>GitHub Pages:</h3>
-Link???
+https://thiagomanfredi.github.io/Portal_Tech/06)_JavaScript2/01_form-style-classList/index.html
 
 <h3>Preview:</h3>
 
