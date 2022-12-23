@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: grid;
+}
+
+main {
+  width: 600px;
+  background-color: #CCCCEE;
+  margin: auto;
+  border-radius: 16px;
+}
+
+section {
+  padding: 2rem;
+  position: relative;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  margin-top: 1.5rem;
+}
+
+form button {
+  width: 100px;
+  height: 40px;
+  margin-top: 2rem;
+}
+
+input {
+  border: none;
+  border-radius: 4px;
+  height: 32px;
+  margin-top: .5rem;
+  margin-bottom: .2rem;
+  padding: .5rem;
+}
+
+
+/* ----- Estilos dinâmicos ----- */
+
+input.error {
+  border: solid 2px #992020;
+  background-color: #CCBBBB;
+  color: #662020;
+}
+
+input.correct {
+  background-color: #BBCCBB;
+  color: #206620;
+}
+
+.error-text {
+  display: none;
+  font-size: .8rem;
+  font-weight: 600;
+  color: #992020;  
+  
+}
+
+.success-message {  
+  display: flex;
+  display: none;
+  position: absolute;  
+  left: 150px;
+  bottom: 15px;
+  align-items: center;  
+  padding: 20px;
+  width: 275px;
+  height: 70px;
+  color: white;
+  background-color: #7979b3;
+  border-radius: 30px;  
+  font-size: .8rem;
+  font-weight: 600;  
+}
+
+.visible {
+  display: block;
+}
+
+
