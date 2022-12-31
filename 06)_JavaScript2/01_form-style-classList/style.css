@@ -68,7 +68,7 @@ input.correct {
   
 }
 
-.success-message {  
+.success-message, .fail-message {  
   display: flex;
   display: none;
   position: absolute;  
@@ -76,13 +76,18 @@ input.correct {
   bottom: 15px;
   align-items: center;  
   padding: 20px;
-  width: 275px;
   height: 70px;
   color: white;
-  background-color: #7979b3;
   border-radius: 30px;  
   font-size: .8rem;
   font-weight: 600;  
+  width: 275px;
+  background-color: #7979b3;
+}
+
+.fail-message {  
+  width: 200px;
+  background-color: red;
 }
 
 .visible {
