@@ -13,4 +13,4 @@ https://thiagomanfredi.github.io/Portal_Tech/06)_JavaScript2/02_event-listener-e
 
 <h3>Preview:</h3>
 
-![Preview](https://user-images.githubusercontent.com/118065155/211899726-a0b5080b-897a-4b3e-896f-7573690a9547.png)
+![Preview](https://user-images.githubusercontent.com/118065155/211901035-896e341f-26a8-4043-946d-3b7915673a31.png)
