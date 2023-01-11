@@ -1,0 +1,157 @@
+body {
+    background-color: #F1F1F1;
+    margin-inline: 5%;
+    margin-bottom: 5%;
+    padding-top: 145px;
+}
+
+#header {
+    display: flex;    
+    justify-content: center;
+    gap: 5%;
+    background-color: #F1F1F1;
+    width: 100%;
+    height: 155px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+hr {
+    position: fixed;
+    width: 90%;
+    top: 145px;
+    left: 5%;
+}
+
+.header-card_01, .header-card_02 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 20px;
+    margin: 15px;
+    width: 125px;
+    height: 125px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 7px;
+    cursor: pointer;
+}
+
+.header-card_02 {
+    position: relative;
+}
+
+.header-card_01:hover, .header-card_02:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 15px -10px;
+    transform: scale(1.015);
+}
+
+.header-card_01:active, .header-card_02:active {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 10px -10px;
+    transform: scale(.98)
+}
+
+.disco-soma {
+    display: flex;
+    position: absolute;
+    left: 75%;
+    top: 55%;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 50%;
+    margin: 10px;
+    width: 45px;
+    height: 45px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 7px;
+    display: none;    
+}
+
+.visible {
+    display: flex;
+}
+
+.linhas {
+    display: flex;
+    justify-content: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: linear-gradient( to bottom, white 55%, #FAFAFA 45%);
+    border-radius: 20px;
+    margin: 10px;
+    width: 232px;
+    height: 323px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 7px;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
+}
+
+.setor {
+    display: none;
+}
+
+img {
+    padding: 10px;
+}
+
+.botão-comprar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    font-family: 'Arial';
+    font-weight: bold;
+    cursor: pointer; 
+}
+
+.muda-cor {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+.botão-comprar:hover {
+    /* transition: all 0.15s;   */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 15px -10px;
+    transform: scale(1.02);
+}
+
+.botão-comprar:active {
+    /* transition: all 0.15s;   */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 10px -10px;
+    transform: scale(.98);
+}
+
+/* -------------------------------------- */
+/* --------css de carrinho.html----------*/
+/* -------------------------------------- */
+
+.provisorio {
+    display: flex;
+    width: 90%;
+}
+
+aside {
+    position: fixed;
+    text-align: center;
+    color: white;
+    top: 170px;
+    left: 78%;
+    background-color: rgb(190, 46, 46);
+    width: 250px;
+    height: 500px;
+    border-radius: 20px;
+}

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="assets/scripts/script.js" defer></script>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Loja</title>
+</head>
+<body>
+    <header id="header">
+        <div class="header-card_01"><img src="assets/img/select-product.png" width="75px" height="75px"></div>
+        <div class="header-card_02">
+            <a href="carrinho.html">
+                <img src="assets/img/carrinho-01.png" width="75px" height="75px">
+                <div class="disco-soma"></div>
+            </a>        
+        </div>        
+    </header>
+    <hr>
+    <div class="linhas">
+        <div class="cards">
+            <div><img src="assets/img/1.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">geladeira</span></p>                
+                <p><span class="preço">R$ 3.499,99</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(0)">Comprar</p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/2.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>
+                <p><span class="nome-produto">smartphone</span></p>
+                <p><span class="preço">R$ 809,10</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(1)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/3.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>
+                <p><span class="nome-produto">smart tv 50" 4k</span></p>
+                <p><span class="preço">R$ 2.199,99</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(2)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/4.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>
+                <p><span class="nome-produto">console PS5</span></p>
+                <p><span class="preço">R$ 4.299,99</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(3)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/5.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>
+                <p><span class="nome-produto">controle PS5</span></p>
+                <p><span class="preço">R$ 449,99</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(4)"><span>Comprar</span></p>              
+            </div>
+        </div>
+    </div>
+    <div class="linhas">
+        <div class="cards">
+            <div><img src="assets/img/6.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">air fryer</span></p>
+                <p><span class="preço">R$ 345,50</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(5)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/7.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">batedeira</span></p>
+                <p><span class="preço">R$ 320,50</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(6)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/8.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">sofá retrátil</span></p>
+                <p><span class="preço">R$ 949,00</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(7)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/9.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">cadeira</span></p>
+                <p><span class="preço">R$ 399,99</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(8)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/10.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">mesa de jantar</span></p>
+                <p><span class="preço">R$ 412,41</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(9)"><span>Comprar</span></p>              
+            </div>
+        </div>
+    </div>
+    <div class="linhas">
+        <div class="cards">
+            <div><img src="assets/img/11.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">guarda roupa</span></p>
+                <p><span class="preço">R$ 586,00</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(10)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/12.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">rack para tv</span></p>
+                <p><span class="preço">R$ 235,92</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(11)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/13.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">cama box casal</span></p>
+                <p><span class="preço">R$ 416,76</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(12)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/14.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">Espelho</span></p>
+                <p><span class="preço">R$ 147,87</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(13)"><span>Comprar</span></p>              
+            </div>
+        </div>
+        <div class="cards">
+            <div><img src="assets/img/15.webp" width="150px" height="150px"></div>
+        	<div>
+                <p><span class="setor">eletro</span></p>  
+                <p><span class="nome-produto">apoio de livros</span></p>
+                <p><span class="preço">R$ 53,89</span></p>   
+                <p class="botão-comprar" onclick="produtoIncluido(14)"><span>Comprar</span></p>              
+            </div>
+        </div>
+    </div>
+</body>
+</html>
