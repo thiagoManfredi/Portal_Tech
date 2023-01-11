@@ -1,4 +1,4 @@
-<h3>Feito em aula (22/12/2022)</h3>
+<h3>Feito em aula (20/12/2022)</h3>
 
 - Estilização do css por meio da propriedade ClassList;
 - Estruturas condicionais e funções em JavaScript;
