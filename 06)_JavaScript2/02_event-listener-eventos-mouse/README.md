@@ -5,7 +5,7 @@
 - Utilização de JSON para transmissão de informação através da propriedade localStorage;
 - Utilização de eventos por html com passagem de parâmetro;
 - Manipulação de css por JavaScript;
-- Formatação de valores de moeda local por meio do método toLocaleString();
+- Formatação de valores em moeda local por meio do método toLocaleString();
 - Inserção de elementos por meio de DOM.
 
 <h3>GitHub Pages:</h3>
