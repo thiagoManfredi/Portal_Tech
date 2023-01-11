@@ -1,5 +1,5 @@
-<h3>Desenvolvido a partir das atividades praticadas em aula (22/12/2022)</h3>
-<h3>e usando como apoio o material de suporte do curso</h3>
+<h3>Desenvolvido a partir das atividades praticadas em aula (22/12/2022)</br>
+    e usando como apoio o material de suporte do curso</h3>
 
 - Fixação do header no topo;
 - Utilização de JSON para transmissão de informação através da propriedade localStorage;
