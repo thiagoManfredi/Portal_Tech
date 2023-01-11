@@ -80,7 +80,7 @@ function f_soma() {
             soma = soma + (carrinhoCompleto[i].preço_1)*(Number(document.getElementById(`quantidade-produto${i}`).value))
         }
     }
-    displaySoma.innerText = "R$ " + soma.toFixed(2)
+    displaySoma.innerText = soma.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 }
 
 function adicionar(adc) {
