@@ -5,7 +5,7 @@
 - Manipulação de css por DOM (propriedade style).
 
 <h3>GitHub Pages:</h3>
-https://thiagomanfredi.github.io/Portal_Tech/06)_JavaScript2/02_event-listener-eventos-mouse/index.html
+https://thiagomanfredi.github.io/Portal_Tech/06)_JavaScript2/03_eventos-de-teclado/index.html
 
 <h3>Preview:</h3>
 
