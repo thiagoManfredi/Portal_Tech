@@ -1,4 +1,4 @@
-<h3>Atividades proposta em aula (13/01/2023)</h3>
+<h3>Atividade proposta em aula (13/01/2023)</h3>
 
 - Validação de formulário através dos eventos focus, blur e change;
 
