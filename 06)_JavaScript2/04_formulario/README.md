@@ -1,7 +1,7 @@
 <h3>Atividade proposta em aula (13/01/2023), com atualiações (19/01/2023)</h3>
 
 - Validação de formulário através dos eventos focus, blur e change;
-- Uso do método alert() para simular o enviou para API;
+- Uso do método alert() para simular o envio para API;
 - Uso do método includes() para verificar segurança da senha;
 - Uso do método stringfy() para comparar arrays.
 
