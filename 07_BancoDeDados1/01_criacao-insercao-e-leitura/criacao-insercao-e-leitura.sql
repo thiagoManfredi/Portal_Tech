@@ -1,3 +1,5 @@
+DROP TABLE demo;
+
 CREATE TABLE instrumento(
   ID_Instrumento SERIAL PRIMARY KEY,
   Nome varchar(10) not NULL,
@@ -39,17 +41,19 @@ VALUES
 
 SELECT * FROM instrumento
 
+--A partir daqui cada comando tem que ser inserido individualmente no simulador.
+
 --00) Trazer os atributos nome, id_instrumento e preco dos registros cujo preco seja menor que 250.  
 SELECT nome, id_instrumento, preco FROM instrumento WHERE preco < 250
 
---01) Mostrar atributos em_promoção e preco , condição preco  >  400
+--01) atributos em_promoção e preco , condição preco  >  400
 SELECT em_promocao, preco FROM instrumento WHERE preco > 400
 
---02) Trazer todos atributos dos registros em que em_promocao seja TRUE
+--02) trazer todos atributos dos registros em que em_promocao seja TRUE
 SELECT * FROM instrumento WHERE em_promocao = TRUE
 
---03) Trazer atributos nome e preco em que id_instrumento seja igual a 6
+--03) trazer atributos nome e preco em que id_instrumento seja igual a 6
 SELECT nome, preco FROM instrumento WHERE id_instrumento = 6
 
---04) Trazer atributos id_instrumento, preco e em_promocao dos registros em que nome seja igual a violão
+--04) trazer atributos id_instrumento, preco e em_promocao dos registros em que nome seja igual a violão
 SELECT id_instrumento, preco, em_promocao FROM instrumento WHERE nome = 'Violão'
