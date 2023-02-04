@@ -4,7 +4,7 @@
 - Inserção de valores;
 - Exibição dos registros selecionados;
 
-Obs.: Para esse exercício foi usado o simulador SQL OnLine IDE (https://sqliteonline.com)
+Obs.: Para esse exercício foi usado o simulador "SQL OnLine IDE" (https://sqliteonline.com)
 
 <h3>Preview:</h3>
 
