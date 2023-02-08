@@ -1,6 +1,6 @@
 <h3>Atividade Codepark (08/02/2023)</h3>
 
-- Uso do Trigger em PorstgreSQL;
+- Uso do Trigger em PostgreSQL;
 
 Obs.: Para esse exercício foi usado o simulador "SQL OnLine IDE" (https://sqliteonline.com)
 
