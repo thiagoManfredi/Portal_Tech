@@ -1,6 +1,6 @@
 <h3>Atividade aula (07/02/2023)</h3>
 
-- Uso de primary key composta;
+- Uso de primary key composta.
 
 Obs.1: Para esse exercício foi usado o simulador "SQL OnLine IDE" (https://sqliteonline.com).<br>
 Obs.2: Basta inserir o código no simulador e clicar em "Run".
