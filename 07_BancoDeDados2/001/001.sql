@@ -1,0 +1,1 @@
+tbregistroaluguel_meiopagamento
