@@ -2,7 +2,8 @@
 
 - Uso de primary key composta;
 
-Obs.: Para esse exercício foi usado o simulador "SQL OnLine IDE" (https://sqliteonline.com)
+Obs.1: Para esse exercício foi usado o simulador "SQL OnLine IDE" (https://sqliteonline.com)
+Obs.2: Basta inserir o código no simulador e clicar em "Run"
 
 <h3>Preview:</h3>
 
