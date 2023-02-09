@@ -1,6 +1,6 @@
 <h3>Atividade aula (07/02/2023)</h3>
 
-- Uso do conjunto de conhecimento aprendido em aulas anteriores em uma situação factível mais elaborada.
+- Uso do conjunto de conhecimentos aprendidos em aulas anteriores em uma situação factível mais elaborada.
 
 Obs.1: Para esse exercício foi usado o simulador "SQL OnLine IDE" (https://sqliteonline.com).<br>
 Obs.2: Basta inserir o código no simulador e clicar em "Run".
