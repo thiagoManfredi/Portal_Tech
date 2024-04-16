@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "nome":"Tinta Nankin branca",
+        "marca":"Acrilex",
+        "categoria":"tinta",
+        "preço":2.99,
+        "quantidade em estoque":20,
+        "disponível para pronta entrega":false
+    },
+    {
+        "id":2,
+        "nome":"Tinta Nankin preta",
+        "marca":"Acrilex",
+        "categoria":"tinta",
+        "preço":2.99,
+        "quantidade em estoque":35,
+        "disponível para pronta entrega":true
+    },
+    {
+        "id":3,
+        "nome":"Tinta Nankin preta",
+        "marca":"Corfix",
+        "categoria":"tinta",
+        "preço":3.50,
+        "quantidade em estoque":30,
+        "disponível para pronta entrega":true
+    }
+]
